@@ -1,4 +1,4 @@
-# Pre-PhD-Paper-Survey
+# Pre PhD Paper Survey
 This repo is meant to remind myself the progress of my paper survey in advance. I hope that I can read more papers, get idea inspirations, and improve writing skills.
 
 ## Keep in Mind That
